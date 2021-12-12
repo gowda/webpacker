@@ -94,7 +94,7 @@ Or you can add it later by changing your `Gemfile`:
 
 ```ruby
 # Gemfile
-gem 'webpacker', '~> 6.0'
+gem 'webpacker', '~> 6.0.beta'
 
 # OR if you prefer to use master
 gem 'webpacker', git: 'https://github.com/rails/webpacker.git'
